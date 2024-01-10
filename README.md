@@ -1,1 +1,1 @@
-What this project is about:
+What this project is about: Ask a question about the stock market and chatbot returns an answer
